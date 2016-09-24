@@ -1,0 +1,4 @@
+python安装第三方包,推荐使用pip install PIL
+如果使用pip 无法安装,可以下载exe文件安装(windows)
+如果只有whl文件,下载这个文件,然后cd进去文件的目录，
+使用pip install PIL.whl安装
