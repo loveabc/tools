@@ -13,3 +13,5 @@ git merge first
 git branch -d first
 7、删除github上的分支
 git push origin :first
+8、删除文件
+git rm filename
