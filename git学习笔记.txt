@@ -15,3 +15,6 @@ git branch -d first
 git push origin :first
 8、删除文件
 git rm filename
+9、撤销修改
+一个文件修改但是没有add，
+git checkout filename
